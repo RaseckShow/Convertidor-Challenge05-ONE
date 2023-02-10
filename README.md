@@ -11,6 +11,11 @@ Los elementos necesarios para el funcionamiento de la ecommerce.
 El proyecto tiene un convertidor de temperatura y uno de divisas
 
 ---
+## 🖥️ Tecnologías Utilizadas:
+
+- Java
+- Visual Studio Code
+---
 ## ⬇️ Download
 
 ### Cómo descargar:
